@@ -1,9 +1,9 @@
 #**IMAGE CLASSIFIER** 
 
-**Overview**
+**Overview**<br>
 This repository contains an animal image classification model built using FastAI and trained on a dataset of 90 different animal species. The model uses ResNet34 as the backbone and applies progressive resizing, data augmentation, and early stopping to improve performance.
 
-**Dataset**
+**Dataset**<br>
 The dataset is sourced from Kaggle and consists of images of 90 different animals. It is automatically downloaded and cached using KaggleHub.
 
 **Dataset Path:**
@@ -87,4 +87,7 @@ For out-of-memory errors, train using GPU with fp16 precision.
 **License**
 
 This project is licensed under the MIT License.
+
+**Drive link**<br>
+https://drive.google.com/file/d/1LSQ9HQcrnZtJVA0XM47sF2s1T3E5_CMK/view?usp=drive_link
 
